@@ -240,7 +240,7 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e)
 
 // Função para abrir WhatsApp
 function openWhatsApp() {
-  const phone = '5511999999999'; // Substitua pelo número real
+  const phone = '5535991951730'; // Substitua pelo número real
   const message = 'Olá! Gostaria de saber mais sobre os serviços da Michel Representações.';
   const url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
   window.open(url, '_blank');
